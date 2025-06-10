@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishaditiya&label=Profile%20views&color=0e75b6&style=flat" alt="manishaditiya" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **C,C++,Java, Python, Html, Css, JS**
+- 💬 Ask me about **C,C++,Java, Python, Html, Css, JS, NodeJS, MongoDB, ExpressJS**
 
 - 📫 How to reach me **work.manishaditiya@gmail.com**
 
